@@ -1,0 +1,30 @@
+﻿@using MvcCarStore.Models
+@model MvcCarStore.Models.Car
+
+@{
+    ViewBag.Title = "Details for car " + Model.BrandName.CarBrand + Model.Model;
+}
+
+<h2>@Model.BrandName.CarBrand @Model.Model </h2>
+
+<p>
+    <img alt="@Model.Model" src="@Model.CarPicUrl"/>
+</p>
+
+<div id="car-details">
+    <p>
+        <em>Brand:</em>
+        @Model.BrandName.CarBrand
+    </p>
+    <p>
+        <em>Model:</em>
+        @Model.Model
+    </p>    
+    <p>
+        <em>Price:</em>
+        @String.Format("{0:f}", Model.Price)
+    </p>
+    <p class="button">
+        @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new {id = Model.CarID}, "")
+    </p>
+</div>

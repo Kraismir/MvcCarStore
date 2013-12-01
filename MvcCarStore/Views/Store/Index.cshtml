@@ -1,0 +1,17 @@
+﻿
+@model IEnumerable<MvcCarStore.Models.Brand>
+
+@{
+    ViewBag.Title = "Store";
+}
+
+<h2>Browse Brand</h2>
+<p>
+    Select from @Model.Count()
+    brands: </p>
+<ul>
+    @foreach (var brand in Model)
+    {
+        <li>@Html.ActionLink(brand.CarBrand, "Browse", new {brand = brand.CarBrand}) </li>   
+    }
+</ul>

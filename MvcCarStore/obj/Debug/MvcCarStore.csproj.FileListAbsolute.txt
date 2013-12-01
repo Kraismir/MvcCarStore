@@ -1,0 +1,42 @@
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\MvcCarStore.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\MvcCarStore.pdb
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\EntityFramework.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Helpers.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Mvc.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Providers.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Razor.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Razor.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\EntityFramework.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Helpers.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Mvc.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.Razor.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Razor.xml
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.dll
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.pdb
+c:\users\kristr_\Documents\MY Documents\PROJECTS\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.csprojResolveAssemblyReference.cache
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\MvcCarStore.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\MvcCarStore.pdb
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\EntityFramework.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Helpers.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Mvc.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Providers.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Razor.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\EntityFramework.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Helpers.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Mvc.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.Razor.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.csprojResolveAssemblyReference.cache
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.dll
+C:\Users\Красимир\Documents\GitHub\MvcCarStore\MvcCarStore\obj\Debug\MvcCarStore.pdb
